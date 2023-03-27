@@ -1,8 +1,3 @@
 [
-    {
-        "domain":"swiftkash.ng"
-    },
-    {
-        "domain":"swiftkashsafe.com"
-    }
+{ "domain": "swiftkash.ng" }
 ]
