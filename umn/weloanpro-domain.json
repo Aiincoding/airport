@@ -1,8 +1,7 @@
 [
     {
-        "domain": "weloanpro.ph"
-    },
-    {
-        "domain": "weloanpro.com"
+        "domain": "weloanpro.ph",
+        "smsCount": 10000,
+        "packCount": 500
     }
 ]
