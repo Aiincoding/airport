@@ -1,1 +1,7 @@
-[{"domain":"ayudasloan.com"}]
+[
+    {
+        "domain": "ayudas.ph",
+        "smsCount": 10000,
+        "packCount": 500
+    }
+]
