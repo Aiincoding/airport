@@ -1,5 +1,7 @@
 [
     {
-        "domain":"vkashpro.ng"
+        "domain":"vkashpro.ng",
+        "smsCount": 10000,
+        "packCount": 200
     }
 ]
