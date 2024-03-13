@@ -1,7 +1,7 @@
 [
     {
         "domain": "ayudaspro.ph",
-        "smsCount": 5,
-        "packCount": 2
+        "smsCount": 10000,
+        "packCount": 200
     }
 ]
