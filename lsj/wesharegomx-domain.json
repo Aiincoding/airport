@@ -1,5 +1,7 @@
 [
     {
-        "domain": "wesharego.mx"
+        "domain": "wesharego.mx",
+        "smsCount": 20,
+        "packCount": 10
     }
 ]
