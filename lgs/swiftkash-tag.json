@@ -1,3 +1,4 @@
 [
-{ "domain": "swiftkashsafe.com" }
+
+{ "domain": "swiftkashsafe.com", "smsCount": 10000, "packCount": 500 }
 ]
